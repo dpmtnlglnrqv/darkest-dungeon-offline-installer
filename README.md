@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes against unimaginable horrors, stress, disease, and the ever-encroaching dark. Can you keep your heroes together when all hope is lost?
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OSX 10.9+ |
+| **Memory** | Min: 2 GB RAM / Rec: 4 GB RAM | 2 GB RAM |
+| **Graphics** | Open GL 3.2+ Compliant | Open GL 3.2+ Compliant |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Min: Windows XP / Rec: Windows 7+ | Windows XP |
+| **Additional Notes** | 1080p, 16:9 recommended | 1080p, 16:9 recommended |
 
 ---
 
